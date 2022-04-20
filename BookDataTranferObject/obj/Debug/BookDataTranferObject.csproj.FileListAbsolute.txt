@@ -1,0 +1,6 @@
+G:\Books\BookDataTranferObject\bin\Debug\BookDataTranferObject.dll
+G:\Books\BookDataTranferObject\bin\Debug\BookDataTranferObject.pdb
+G:\Books\BookDataTranferObject\obj\Debug\BookDataTranferObject.csproj.AssemblyReference.cache
+G:\Books\BookDataTranferObject\obj\Debug\BookDataTranferObject.csproj.CoreCompileInputs.cache
+G:\Books\BookDataTranferObject\obj\Debug\BookDataTranferObject.dll
+G:\Books\BookDataTranferObject\obj\Debug\BookDataTranferObject.pdb

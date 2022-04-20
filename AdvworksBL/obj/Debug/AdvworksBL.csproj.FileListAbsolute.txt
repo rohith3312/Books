@@ -1,0 +1,12 @@
+G:\Books\AdvworksBL\bin\Debug\AdvworksBL.dll
+G:\Books\AdvworksBL\bin\Debug\AdvworksBL.pdb
+G:\Books\AdvworksBL\bin\Debug\AdventureworkDAL.dll
+G:\Books\AdvworksBL\bin\Debug\EntityFramework.dll
+G:\Books\AdvworksBL\bin\Debug\AdventureworkDAL.pdb
+G:\Books\AdvworksBL\bin\Debug\AdventureworkDAL.dll.config
+G:\Books\AdvworksBL\bin\Debug\EntityFramework.xml
+G:\Books\AdvworksBL\obj\Debug\AdvworksBL.csproj.AssemblyReference.cache
+G:\Books\AdvworksBL\obj\Debug\AdvworksBL.csproj.CoreCompileInputs.cache
+G:\Books\AdvworksBL\obj\Debug\AdvworksBL.csproj.CopyComplete
+G:\Books\AdvworksBL\obj\Debug\AdvworksBL.dll
+G:\Books\AdvworksBL\obj\Debug\AdvworksBL.pdb

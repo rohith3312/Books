@@ -1,0 +1,14 @@
+G:\Books\BookDataAcessLayer\obj\Debug\BookDataAcessLayer.csproj.AssemblyReference.cache
+G:\Books\BookDataAcessLayer\obj\Debug\BookDataAcessLayer.csproj.CoreCompileInputs.cache
+G:\Books\BookDataAcessLayer\bin\Debug\BookDataAcessLayer.dll.config
+G:\Books\BookDataAcessLayer\bin\Debug\BookDataAcessLayer.dll
+G:\Books\BookDataAcessLayer\bin\Debug\BookDataAcessLayer.pdb
+G:\Books\BookDataAcessLayer\bin\Debug\BookDataTranferObject.dll
+G:\Books\BookDataAcessLayer\bin\Debug\EntityFramework.dll
+G:\Books\BookDataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\Books\BookDataAcessLayer\bin\Debug\BookDataTranferObject.pdb
+G:\Books\BookDataAcessLayer\bin\Debug\EntityFramework.xml
+G:\Books\BookDataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\Books\BookDataAcessLayer\obj\Debug\BookDataAcessLayer.csproj.CopyComplete
+G:\Books\BookDataAcessLayer\obj\Debug\BookDataAcessLayer.dll
+G:\Books\BookDataAcessLayer\obj\Debug\BookDataAcessLayer.pdb

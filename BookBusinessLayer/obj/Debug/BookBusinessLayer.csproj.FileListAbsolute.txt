@@ -1,0 +1,14 @@
+G:\Books\BookBusinessLayer\obj\Debug\BookBusinessLayer.csproj.AssemblyReference.cache
+G:\Books\BookBusinessLayer\obj\Debug\BookBusinessLayer.csproj.CoreCompileInputs.cache
+G:\Books\BookBusinessLayer\bin\Debug\BookBusinessLayer.dll
+G:\Books\BookBusinessLayer\bin\Debug\BookBusinessLayer.pdb
+G:\Books\BookBusinessLayer\bin\Debug\BookDataAcessLayer.dll
+G:\Books\BookBusinessLayer\bin\Debug\BookDataTranferObject.dll
+G:\Books\BookBusinessLayer\bin\Debug\EntityFramework.dll
+G:\Books\BookBusinessLayer\bin\Debug\BookDataAcessLayer.pdb
+G:\Books\BookBusinessLayer\bin\Debug\BookDataAcessLayer.dll.config
+G:\Books\BookBusinessLayer\bin\Debug\BookDataTranferObject.pdb
+G:\Books\BookBusinessLayer\bin\Debug\EntityFramework.xml
+G:\Books\BookBusinessLayer\obj\Debug\BookBusinessLayer.csproj.CopyComplete
+G:\Books\BookBusinessLayer\obj\Debug\BookBusinessLayer.dll
+G:\Books\BookBusinessLayer\obj\Debug\BookBusinessLayer.pdb

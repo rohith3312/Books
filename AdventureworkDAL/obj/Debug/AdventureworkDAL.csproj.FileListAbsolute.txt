@@ -1,0 +1,12 @@
+G:\Books\AdventureworkDAL\bin\Debug\AdventureworkDAL.dll.config
+G:\Books\AdventureworkDAL\bin\Debug\AdventureworkDAL.dll
+G:\Books\AdventureworkDAL\bin\Debug\AdventureworkDAL.pdb
+G:\Books\AdventureworkDAL\bin\Debug\EntityFramework.dll
+G:\Books\AdventureworkDAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\Books\AdventureworkDAL\bin\Debug\EntityFramework.xml
+G:\Books\AdventureworkDAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\Books\AdventureworkDAL\obj\Debug\AdventureworkDAL.csproj.AssemblyReference.cache
+G:\Books\AdventureworkDAL\obj\Debug\AdventureworkDAL.csproj.CoreCompileInputs.cache
+G:\Books\AdventureworkDAL\obj\Debug\AdventureworkDAL.csproj.CopyComplete
+G:\Books\AdventureworkDAL\obj\Debug\AdventureworkDAL.dll
+G:\Books\AdventureworkDAL\obj\Debug\AdventureworkDAL.pdb
